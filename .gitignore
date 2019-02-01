@@ -1,3 +1,9 @@
+# User
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/shelf/*
+**/.idea/dictionaries
+
 # Rider
 # Rider auto-generates .iml files, and contentModel.xml
 **/.idea/**/*.iml
@@ -11,6 +17,7 @@
 [Oo]bj/
 _UpgradeReport_Files/
 [Pp]ackages/
+.idea/
 
 Thumbs.db
 Desktop.ini
