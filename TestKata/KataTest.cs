@@ -6,10 +6,13 @@ namespace TestKata
 {
     public class KataTest
     {
+        private KataClass _order = new KataClass();
+        
         [Fact]
-        public void It_Returns_A_String()
+        public void CanReturnString()
         {
-            
+            string expected = "";
+            Assert.Equal(expected, _order.Execute());
         }
     }
 }
