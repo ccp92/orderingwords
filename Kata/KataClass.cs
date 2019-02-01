@@ -4,9 +4,9 @@ namespace Kata
 {
     public class KataClass
     {
-        public string Execute()
+        public string Execute(string words)
         {
-            return "";
+            return words;
         }
     }
 }
