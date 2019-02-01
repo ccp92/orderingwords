@@ -13,12 +13,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Kata/KataClass.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="120">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding>
-                <marker date="1549033701826" expanded="true" signature="29:147" ph="{...}" />
-                <marker date="1549033701826" expanded="true" signature="58:145" ph="{...}" />
-                <marker date="1549033701826" expanded="true" signature="96:139" ph="{...}" />
+                <marker date="1549034989738" expanded="true" signature="29:162" ph="{...}" />
+                <marker date="1549034989738" expanded="true" signature="58:160" ph="{...}" />
+                <marker date="1549034989738" expanded="true" signature="108:154" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -27,13 +27,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestKata/KataTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="360">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding>
-                <marker date="1549033856640" expanded="true" signature="6:38" ph="..." />
-                <marker date="1549033856640" expanded="true" signature="58:322" ph="{...}" />
-                <marker date="1549033856640" expanded="true" signature="86:320" ph="{...}" />
-                <marker date="1549033856640" expanded="true" signature="206:314" ph="{...}" />
+                <marker date="1549034948954" expanded="true" signature="6:38" ph="..." />
+                <marker date="1549034948954" expanded="true" signature="58:590" ph="{...}" />
+                <marker date="1549034948954" expanded="true" signature="86:588" ph="{...}" />
+                <marker date="1549034948954" expanded="true" signature="228:338" ph="{...}" />
+                <marker date="1549034948954" expanded="true" signature="420:582" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -53,8 +54,8 @@
       <list>
         <option value="$PROJECT_DIR$/TestKata/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Kata/KataClass.cs" />
         <option value="$PROJECT_DIR$/TestKata/KataTest.cs" />
+        <option value="$PROJECT_DIR$/Kata/KataClass.cs" />
       </list>
     </option>
   </component>
@@ -127,12 +128,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549032862296</updated>
-      <workItem from="1549032863713" duration="1062000" />
+      <workItem from="1549032863713" duration="1729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1062000" />
+    <option name="totallyTimeSpent" value="1729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -145,6 +146,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Image Layers" />
@@ -199,25 +201,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Kata/KataClass.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding>
-            <marker date="1549033701826" expanded="true" signature="29:147" ph="{...}" />
-            <marker date="1549033701826" expanded="true" signature="58:145" ph="{...}" />
-            <marker date="1549033701826" expanded="true" signature="96:139" ph="{...}" />
+            <marker date="1549034989738" expanded="true" signature="29:162" ph="{...}" />
+            <marker date="1549034989738" expanded="true" signature="58:160" ph="{...}" />
+            <marker date="1549034989738" expanded="true" signature="108:154" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestKata/KataTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
-            <marker date="1549033856640" expanded="true" signature="6:38" ph="..." />
-            <marker date="1549033856640" expanded="true" signature="58:322" ph="{...}" />
-            <marker date="1549033856640" expanded="true" signature="86:320" ph="{...}" />
-            <marker date="1549033856640" expanded="true" signature="206:314" ph="{...}" />
+            <marker date="1549034948954" expanded="true" signature="6:38" ph="..." />
+            <marker date="1549034948954" expanded="true" signature="58:590" ph="{...}" />
+            <marker date="1549034948954" expanded="true" signature="86:588" ph="{...}" />
+            <marker date="1549034948954" expanded="true" signature="228:338" ph="{...}" />
+            <marker date="1549034948954" expanded="true" signature="420:582" ph="{...}" />
           </folding>
         </state>
       </provider>
